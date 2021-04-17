@@ -1,0 +1,41 @@
+.navbar{
+    background-color: rgb(100, 50, 28)
+}
+.quem-somos{
+    background-color: rgb(160, 119, 102);
+    color: linen;
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: rgb(150, 110, 120 );
+}
+.servicos{
+    background-color: rgb(150, 150, 150);
+}
+.rodape{
+    background-color: #ffffff;
+}
+h3{
+    font-family: cursive;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+h4{
+    font-family: cursive;
+    font-size: 30px;
+}
+@media screen and (max-width: 750px) {
+    img{
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    p{
+        margin-top: 15px;
+    }
+}
